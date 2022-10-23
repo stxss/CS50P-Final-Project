@@ -1,0 +1,23 @@
+Shopping;Attractions;Food n Drinks;Transport;Government;Health;Misc
+bicycle_store;amusement_park;bakery;airport;courthouse;beauty_salon;accounting
+book_store;aquarium;bar;bus_station;embassy;dentist;atm
+clothing_store;art_gallery;cafe;car_dealer;lawyer;doctor;bank
+convenience_store;bowling_alley;meal_delivery;car_rental;library;gym;electrician
+department_store;campground;meal_takeaway;car_repair;local_government_office;hair_care;fire_station
+drugstore;casino;restaurant;car_wash;police;hospital;laundry
+electronics_store;cemetery;;gas_station;post_office;pharmacy;locksmith
+florist;church;;light_rail_station;primary_school;physiotherapist;lodging
+funeral_home;city_hall;;parking;school;spa;moving_company
+furniture_store;hindu_temple;;rv_park;secondary_school;veterinary_care;painter
+hardware_store;mosque;;subway_station;university;;plumber
+home_goods_store;movie_theater;;taxi_stand;;;roofing_contractor
+insurance_agency;museum;;train_station;;;storage
+jewelry_store;night_club;;transit_station;;;travel_agency
+liquor_store;park;;;;;
+movie_rental;stadium;;;;;
+pet_store;synagogue;;;;;
+real_estate_agency;tourist_attraction;;;;;
+shoe_store;zoo;;;;;
+shopping_mall;;;;;;
+store;;;;;;
+supermarket;;;;;;
